@@ -1,0 +1,35 @@
+<application>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="73bf" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+    </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="73bf" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+    </pattern>
+    <pattern icon="default" useCustomColors="true" case-sensitive="false" pattern="\bnote\b.*">
+      <option name="FOREGROUND" value="73bf" />
+      <option name="EFFECT_COLOR" value="2072dc" />
+      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+      <option name="EFFECT_TYPE" value="5" />
+    </pattern>
+    <pattern icon="default" useCustomColors="true" case-sensitive="false" pattern="\bsnappy\b.*">
+      <option name="FOREGROUND" value="b3317f" />
+      <option name="FONT_TYPE" value="1" />
+      <option name="ERROR_STRIPE_COLOR" value="e374d7" />
+    </pattern>
+    <pattern icon="default" useCustomColors="true" case-sensitive="false" pattern="\bimportant\b.*">
+      <option name="FOREGROUND" value="ff1807" />
+      <option name="FONT_TYPE" value="1" />
+      <option name="EFFECT_COLOR" value="ffffff" />
+      <option name="ERROR_STRIPE_COLOR" value="e38221" />
+      <option name="EFFECT_TYPE" value="5" />
+    </pattern>
+  </component>
+</application>
