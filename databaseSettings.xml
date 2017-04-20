@@ -1,7 +1,10 @@
 <application>
-  <component name="DatabaseSettings">
+  <component name="DatabaseSettings" version="1">
+    <option name="page-size" value="100" />
     <option name="reuse-result-tab" value="false" />
     <option name="execute-inside-option" value="5" />
+    <option name="filters-history-size" value="100" />
+    <option name="prefetch-size" value="50" />
     <csv-formats>
       <csv-format name="Tab-separated (TSV)">
         <data>
